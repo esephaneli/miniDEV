@@ -132,13 +132,6 @@ Kullanıcı Talebi
 | gemini-2.5-flash | 10 | 500 | ✅ (5 çağrı/proje) |
 | gemini-2.0-flash | 15 | 1500 | ✅ Bol bol yeter |
 
-## 🤝 Katkıda Bulunma
-
-1. Fork yapın
-2. Feature branch oluşturun (`git checkout -b feature/amazing`)
-3. Commit yapın (`git commit -m 'Add amazing feature'`)
-4. Push yapın (`git push origin feature/amazing`)
-5. Pull Request açın
 
 ## 📄 Lisans
 
